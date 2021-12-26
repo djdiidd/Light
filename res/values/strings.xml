@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Photo Editor Light</string>
+    <string name="bottom_add_filter">Add Filter</string>
+    <string name="bottom_draw">Draw On</string>
+    <string name="bottom_add_text">Add text</string>
+    <string name="bottom_add_emoji">Add Emoji</string>
+
+    <string name="description_filter_button">Applying filters to the image</string>
+    <string name="description_text_button">Adding some text to the image</string>
+    <string name="description_emoji_button">Adding some emoji to the image</string>
+    <string name="description_draw_button">Drawing on the image</string>
+    <string name="description_erase_button">Erase your drawing on the image</string>
+    <string name="main_menu_load_image">Load new image</string>
+    <string name="hint_input_text">Input text…</string>
+    <string name="submit_button">Submit</string>
+    <string name="dismiss_button">Dismiss</string>
+    <string name="title_dialog_add_text">Input some text</string>
+    <string name="error_empty_field">Empty field</string>
+    <string name="brush_size">Brush size</string>
+    <string name="brush_opacity">Brush opacity</string>
+    <string name="exit_title">Are you sure you want to exit?</string>
+    <string name="exit_message">Your changes will not be saved</string>
+    <string name="save_and_exit">Save and exit</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="accept_exit">exit</string>
+    <string name="save_image">Save image</string>
+    <string name="save_empty">Save</string>
+    <string name="save_empty_title">There\'s no changes</string>
+    <string name="save_empty_message">Are you sure you want to create copy of original photo?</string>
+</resources>
